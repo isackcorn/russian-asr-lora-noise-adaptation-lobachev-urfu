@@ -28,6 +28,8 @@ eval/results_quick/
 eval/results_smoke/
 eval/noisy_test_sets/
 eval/thesis_test_sets/
+eval/predictions_significance/
+eval/predictions_significance_controlled/
 
 /open_stt-ref/
 
